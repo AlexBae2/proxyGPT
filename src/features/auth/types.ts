@@ -4,4 +4,4 @@ export interface IFormFields {
     email?: string;
 }
 
-export type TAuth = 'login' | 'register'
+export type TAuth = 'login' | 'register';

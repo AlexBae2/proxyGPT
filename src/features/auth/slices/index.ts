@@ -1,1 +1,1 @@
-export {default} from './auth.slice.ts'
+export { default } from './auth.slice.ts';
